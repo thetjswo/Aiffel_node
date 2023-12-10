@@ -1,0 +1,10 @@
+,menu,price,size,kcal,dc rate,dc price,origin
+0,Gold Fried,12000,1050g,1000.0,0.2,9600.0,Korea
+1,Hot Seasoning,13000,1050g,1400.0,0.2,10400.0,
+2,Soy Sauce,14000,950g,1600.0,0.2,11200.0,
+3,Galic Sauce,14000,950g,1800.0,0.2,11200.0,
+4,Leek,14000,1150g,1300.0,0.2,11200.0,Brazil
+5,Bonelessness,15000,1250g,1500.0,0.2,12000.0,Brazil
+6,HaH,13000,1050g,1300.0,0.2,10400.0,
+new,[popular]bbq,16000,1150g,1200.0,0.5,8000.0,Korea
+10,[best]oven-baked,9900,1050g,,,,
